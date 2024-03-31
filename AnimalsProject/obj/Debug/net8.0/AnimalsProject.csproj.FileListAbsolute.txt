@@ -1,0 +1,14 @@
+C:\School (WCTC)\Mobile Applications\Animals\AnimalsProject\AnimalsProject\bin\Debug\net8.0\AnimalsProject.exe
+C:\School (WCTC)\Mobile Applications\Animals\AnimalsProject\AnimalsProject\bin\Debug\net8.0\AnimalsProject.deps.json
+C:\School (WCTC)\Mobile Applications\Animals\AnimalsProject\AnimalsProject\bin\Debug\net8.0\AnimalsProject.runtimeconfig.json
+C:\School (WCTC)\Mobile Applications\Animals\AnimalsProject\AnimalsProject\bin\Debug\net8.0\AnimalsProject.dll
+C:\School (WCTC)\Mobile Applications\Animals\AnimalsProject\AnimalsProject\bin\Debug\net8.0\AnimalsProject.pdb
+C:\School (WCTC)\Mobile Applications\Animals\AnimalsProject\AnimalsProject\obj\Debug\net8.0\AnimalsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\School (WCTC)\Mobile Applications\Animals\AnimalsProject\AnimalsProject\obj\Debug\net8.0\AnimalsProject.AssemblyInfoInputs.cache
+C:\School (WCTC)\Mobile Applications\Animals\AnimalsProject\AnimalsProject\obj\Debug\net8.0\AnimalsProject.AssemblyInfo.cs
+C:\School (WCTC)\Mobile Applications\Animals\AnimalsProject\AnimalsProject\obj\Debug\net8.0\AnimalsProject.csproj.CoreCompileInputs.cache
+C:\School (WCTC)\Mobile Applications\Animals\AnimalsProject\AnimalsProject\obj\Debug\net8.0\AnimalsProject.dll
+C:\School (WCTC)\Mobile Applications\Animals\AnimalsProject\AnimalsProject\obj\Debug\net8.0\refint\AnimalsProject.dll
+C:\School (WCTC)\Mobile Applications\Animals\AnimalsProject\AnimalsProject\obj\Debug\net8.0\AnimalsProject.pdb
+C:\School (WCTC)\Mobile Applications\Animals\AnimalsProject\AnimalsProject\obj\Debug\net8.0\AnimalsProject.genruntimeconfig.cache
+C:\School (WCTC)\Mobile Applications\Animals\AnimalsProject\AnimalsProject\obj\Debug\net8.0\ref\AnimalsProject.dll
